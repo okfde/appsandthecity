@@ -3,8 +3,10 @@ pygments: true
 
 # Template Settings
 title: 'Apps and the City Network'
-location: 'Deutschland'
 date: 'Established 2012'
+github: 'https://github.com/okfde/appsandthecity'
+contact: 'julia.kloiber@okfn.org'
+mailinglist: 'http://lists.okfn.org/mailman/listinfo/open-data-nahverkehr'
 
 # Navigation
 navigation:
