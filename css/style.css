@@ -202,6 +202,10 @@ a > h4:hover {
   text-align: center;
 }
 
+.navbar .nav {
+  margin-top: 5px;
+}
+
 .navbar .nav > li > a {
   color: #fff;
   padding: 6px 10px 5px;
