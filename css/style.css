@@ -322,3 +322,11 @@ section {
   background-color: #fff;
   font-size: 10px;
 }
+
+.banner > .container {
+    padding: 20px;
+}
+
+.banner {
+    background-color: white;
+}
