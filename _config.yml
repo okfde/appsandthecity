@@ -7,10 +7,3 @@ date: 'Established 2012'
 github: 'https://github.com/okfde/appsandthecity'
 contact: 'julia.kloiber@okfn.org'
 mailinglist: 'http://lists.okfn.org/mailman/listinfo/open-data-nahverkehr'
-
-# Navigation
-navigation:
-- text: 'Berlin'
-  url: 'http://berlin.appsandthecity.net'
-- text: 'Köln'
-  url: 'http://cologne.appsandthecity.net'
